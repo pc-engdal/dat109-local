@@ -1,4 +1,5 @@
 Ford Taunus
 Porche 911
 Tesla Model S
+Tesla Model Y
 Tesla Model X

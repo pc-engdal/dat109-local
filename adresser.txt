@@ -2,3 +2,4 @@ Veien 3
 Svingen 10
 Neset 10
 Borte i veien 11
+Trollstien 14
